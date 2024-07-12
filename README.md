@@ -8,13 +8,21 @@ The dataset contains the following variables:
 
 **Company Name:** The manufacturer of the car (e.g., Maruti, Hyundai).
 **Car Name:** The model name of the car (e.g., Swift, i20).
+
 **Variant**: The specific variant of the car model (e.g., VDI, Sportz).
+
 **Fuel Type:** Type of fuel used by the car (e.g., Petrol, Diesel).
+
 **Tyre Condition:** Condition of the tyres (e.g., New, Good, Average, Worn).
+
 **Make Year:** Year the car was manufactured.
+
 **Owner Type:** Number of previous owners (e.g., First, Second, Third).
+
 **Transmission Type: **Type of transmission (e.g., Manual, Automatic).
+
 **Body Color**: Color of the car's body.
+
 **Service Record:** Whether the car has a service record (Yes/No).
 **Insurance:** Whether the car has insurance (Yes/No).
 **Registration Certificate:** Whether the car has a registration certificate (Yes/No).
